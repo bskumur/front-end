@@ -1,0 +1,6 @@
+öncelikle terminali açıyoruz
+sonra;
+git add .
+git commit -m "commit-adı"
+git push
+bu kadar.
